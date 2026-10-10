@@ -4,23 +4,25 @@ Building practical tools that solve actual problems. Based in Nairobi, Kenya.
 
 What I Build
 
- .Data pipelines and automation scripts in Python.
+  .Data pipelines and automation scripts in Python.
 
- .REST APIs with FastAPI and Flask.
+  .REST APIs with FastAPI and Flask.
 
- .Machine learning tools for fitness and performance tracking.
+  .Machine learning tools for fitness and performance tracking.
 
- .Browser-based tools with JavaScript and the Fetch API.
+  .Browser-based tools with JavaScript and the Fetch API.
 
 Current Projects
 
- .smp-tracker: Daily performance tracker with ML-powered coaching.
+  .smp-tracker: Daily performance tracker with ML-powered coaching.
  
- .api-dashboard: Multi-endpoint data dashboard with pandas report.
+  .api-dashboard: Multi-endpoint data dashboard with pandas report.
  
- .browser-coach: Client-side AI coaching tool in JavaScript.
+  .browser-coach: Client-side AI coaching tool in JavaScript.
 
-Stack
+Stack  
+
+
 Python.  FastAPI.  Pandas.  scikit-learn.  JavaScript.  Git.  Fetch API.
 <!--
 **moses2-aboka/moses2-aboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
