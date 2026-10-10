@@ -4,21 +4,21 @@ Building practical tools that solve actual problems. Based in Nairobi, Kenya.
 
 What I Build
 
-  .Data pipelines and automation scripts in Python.
+ 1.Data pipelines and automation scripts in Python.
 
-  .REST APIs with FastAPI and Flask.
+ 2.REST APIs with FastAPI and Flask.
 
-  .Machine learning tools for fitness and performance tracking.
+ 3.Machine learning tools for fitness and performance tracking.
 
-  .Browser-based tools with JavaScript and the Fetch API.
+ 4.Browser-based tools with JavaScript and the Fetch API.
 
 Current Projects
 
-  .smp-tracker: Daily performance tracker with ML-powered coaching.
+  1.smp-tracker: Daily performance tracker with ML-powered coaching.
  
-  .api-dashboard: Multi-endpoint data dashboard with pandas report.
+  2.api-dashboard: Multi-endpoint data dashboard with pandas report.
  
-  .browser-coach: Client-side AI coaching tool in JavaScript.
+  3.browser-coach: Client-side AI coaching tool in JavaScript.
 
 Stack  
 
