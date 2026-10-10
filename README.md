@@ -13,6 +13,7 @@ What I Build
  .Browser-based tools with JavaScript and the Fetch API.
 
 Current Projects
+
  .smp-tracker: Daily performance tracker with ML-powered coaching.
  
  .api-dashboard: Multi-endpoint data dashboard with pandas report.
